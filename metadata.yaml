@@ -1,0 +1,25 @@
+_repo: Barnen-ifran-Frostmofjaellet_9828
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fitinghoff, Laura
+    birthdate: 1848
+    deathdate: 1908
+    gutenberg_agent_id: '3157'
+    url: http://www.gutenberg.org/2009/agents/3157
+    wikipedia: http://sv.wikipedia.org/wiki/Laura_Fitinghoff
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9828'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- GITenberg
+title: Barnen ifran Frostmofjaellet
+url: http://www.gutenberg.org/ebooks/9828
